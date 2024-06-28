@@ -13,7 +13,7 @@ public class iPhone implements aparelhoTelefonico, reprodutorMusical, navegadorI
         i.iniciarCorreioVoz();
         i.tocar();
         i.pausar();
-        i.selecionarMusica("Rock");
+        i.selecionarMusica("With Arms Wide Open - Creed");
         i.exibirPagina("www.google.com.br");
         i.adicionarNovaAba();
         i.atualizarPagina();
